@@ -7,3 +7,10 @@ print("Mean:", np.mean(arr))
 print("Maximum:", np.max(arr))
 print("Minimum:", np.min(arr))
 print("Standard Deviation:", np.std(arr))
+
+# Expected Output:
+# Sum: 150
+# Mean: 30.0
+# Maximum: 50
+# Minimum: 10
+# Standard Deviation: 14.142135623730951

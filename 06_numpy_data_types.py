@@ -13,3 +13,11 @@ print("Float Data Type:", b.dtype)
 
 print("Boolean Array:", c)
 print("Boolean Data Type:", c.dtype)
+
+# Expected Output:
+# Integer Array: [10 20 30]
+# Integer Data Type: int64
+# Float Array: [1.5 2.5 3.5]
+# Float Data Type: bool
+# Boolean Array: [ True False  True]
+# Boolean Data Type: bool
